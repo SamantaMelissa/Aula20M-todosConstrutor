@@ -1,0 +1,13 @@
+C:\Users\saman\OneDrive\Documentos\Aula20SenaiFood\bin\Debug\netcoreapp3.1\Aula20SenaiFood.exe
+C:\Users\saman\OneDrive\Documentos\Aula20SenaiFood\bin\Debug\netcoreapp3.1\Aula20SenaiFood.deps.json
+C:\Users\saman\OneDrive\Documentos\Aula20SenaiFood\bin\Debug\netcoreapp3.1\Aula20SenaiFood.runtimeconfig.json
+C:\Users\saman\OneDrive\Documentos\Aula20SenaiFood\bin\Debug\netcoreapp3.1\Aula20SenaiFood.runtimeconfig.dev.json
+C:\Users\saman\OneDrive\Documentos\Aula20SenaiFood\bin\Debug\netcoreapp3.1\Aula20SenaiFood.dll
+C:\Users\saman\OneDrive\Documentos\Aula20SenaiFood\bin\Debug\netcoreapp3.1\Aula20SenaiFood.pdb
+C:\Users\saman\OneDrive\Documentos\Aula20SenaiFood\obj\Debug\netcoreapp3.1\Aula20SenaiFood.csprojAssemblyReference.cache
+C:\Users\saman\OneDrive\Documentos\Aula20SenaiFood\obj\Debug\netcoreapp3.1\Aula20SenaiFood.csproj.CoreCompileInputs.cache
+C:\Users\saman\OneDrive\Documentos\Aula20SenaiFood\obj\Debug\netcoreapp3.1\Aula20SenaiFood.AssemblyInfoInputs.cache
+C:\Users\saman\OneDrive\Documentos\Aula20SenaiFood\obj\Debug\netcoreapp3.1\Aula20SenaiFood.AssemblyInfo.cs
+C:\Users\saman\OneDrive\Documentos\Aula20SenaiFood\obj\Debug\netcoreapp3.1\Aula20SenaiFood.dll
+C:\Users\saman\OneDrive\Documentos\Aula20SenaiFood\obj\Debug\netcoreapp3.1\Aula20SenaiFood.pdb
+C:\Users\saman\OneDrive\Documentos\Aula20SenaiFood\obj\Debug\netcoreapp3.1\Aula20SenaiFood.genruntimeconfig.cache
